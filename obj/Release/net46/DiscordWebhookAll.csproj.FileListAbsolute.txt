@@ -1,0 +1,11 @@
+C:\Users\ProMa\source\repos\Discord.Webhook.All\bin\Release\DiscordWebhookAll.dll.config
+C:\Users\ProMa\source\repos\Discord.Webhook.All\bin\Release\DiscordWebhookAll.dll
+C:\Users\ProMa\source\repos\Discord.Webhook.All\bin\Release\DiscordWebhookAll.pdb
+C:\Users\ProMa\source\repos\Discord.Webhook.All\bin\Release\RestSharp.dll
+C:\Users\ProMa\source\repos\Discord.Webhook.All\bin\Release\RestSharp.xml
+C:\Users\ProMa\source\repos\Discord.Webhook.All\obj\Release\net46\DiscordWebhookAll.AssemblyInfoInputs.cache
+C:\Users\ProMa\source\repos\Discord.Webhook.All\obj\Release\net46\DiscordWebhookAll.AssemblyInfo.cs
+C:\Users\ProMa\source\repos\Discord.Webhook.All\obj\Release\net46\DiscordWebhookAll.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\Discord.Webhook.All\obj\Release\net46\DiscordWebhookAll.csproj.CopyComplete
+C:\Users\ProMa\source\repos\Discord.Webhook.All\obj\Release\net46\DiscordWebhookAll.dll
+C:\Users\ProMa\source\repos\Discord.Webhook.All\obj\Release\net46\DiscordWebhookAll.pdb
